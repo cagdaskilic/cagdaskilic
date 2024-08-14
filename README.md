@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is Cagdas! I am a Ph.D. student at Simon Fraser University in Vancouver, Canada. My expertise is on industrial psychology, organizational behavior, and international business.
-I am aspiring to steer my research career towards a computational social scientist track. Therefore, I am on a journey to add more skills into my toolbox and get to know more about ML, to begin with. It's fun being a rookie, and I enjoy the luxury of not having to claim an expertise on these methodologies :)
+I am aspiring to steer my research career towards a computational social scientist track. Therefore, I am on a journey to add more skills into my toolbox and get to know more about ML as a start. It's fun being a rookie, and I enjoy the luxury of not having to claim an expertise on these methodologies :)
 
 Thank you, all!
 
