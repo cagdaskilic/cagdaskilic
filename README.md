@@ -1,6 +1,4 @@
-## Hi there 👋
-
-This is Cagdas! I am a Ph.D. student at Simon Fraser University in Vancouver, Canada. My expertise is on industrial psychology, organizational behavior, and international business.
+##
 
 <!--
 **cagdaskilic/cagdaskilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
